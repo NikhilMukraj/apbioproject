@@ -1,0 +1,7 @@
+chemoautotrophs:
+    hydrogen sulfide + methane + co2 + water -> glucose
+    perform better when hotter
+
+photoautotrophs:
+    co2 + water + light -> glucose + oxygen
+    perform better when brighter
